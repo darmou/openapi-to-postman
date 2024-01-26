@@ -1,5 +1,7 @@
 # OpenAPI-Postman Changelog
 
+#### v4.19.1 (January 25, 2024)
+
 ## [Unreleased]
 
 ## [v4.19.0] - 2024-01-18
